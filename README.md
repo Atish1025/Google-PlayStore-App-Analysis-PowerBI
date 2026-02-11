@@ -1,4 +1,4 @@
-
+<img width="1820" height="772" alt="Screenshot 2026-02-11 124828" src="https://github.com/user-attachments/assets/14d5a1f3-8d45-4b4c-b8d6-ae1bc679b741" />
 ---
 
 # 📊 Google Play Store App Analysis – Power BI Dashboard & EDA
@@ -123,10 +123,11 @@ The interactive dashboard includes:
 
 ## 📷 Dashboard Preview
 
-*(Add your screenshot file in images folder and uncomment below line)*
+![Uploading Screenshot 2026-02-11 124828.png…]()
 
-```markdown
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+
+```
+
 ```
 
 ---
